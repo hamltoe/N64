@@ -1,0 +1,6 @@
+[submodule "extern/libdragon"]
+	path = extern/libdragon
+	url = https://github.com/DragonMinded/libdragon.git
+[submodule "extern/tiny3d"]
+	path = extern/tiny3d
+	url = https://github.com/HailToDodongo/tiny3d.git
